@@ -1,0 +1,6 @@
+{
+  "name": "부산 축제 정보 - Busan Festival Guide",
+  "description": "부산광역시 구·군별 및 날짜별 축제 정보 조회 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
